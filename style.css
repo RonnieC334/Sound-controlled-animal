@@ -1,0 +1,13 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Syne Mono', monospace;
+}
+#f {
+    text-align: center;
+}
+#d {
+    text-align: center;
+}
+header div {
+    background-color: antiquewhite;
+}
